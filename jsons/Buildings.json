@@ -1,25 +1,22 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "騎兵学校",
+		"replaces": "Military Academy",
+		"uniqueTo": "ポーランド",
+		"hurryCostModifier": 0,
+		"cost": 285,
+		"uniques":  ["[+20]% Production when constructing [Mounted] units [in this city]",  "New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"maintenance": 1,
+		"requiredTech": "Military Science"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "聖十字架教会",
+		"replaces": "Cathedral",
+		"uniqueTo": "ポーランド",
+		"cost": 0,
+		"feith": 4,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"culture": 3,
+		"uniques": ["Unbuildable, "Hidden when religion is disabled", "[+15]% Natural religion spread [in this city]"],
 	}
 ]

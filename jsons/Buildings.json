@@ -17,6 +17,6 @@
 		"feith": 4,
 		"happiness": 2,
 		"culture": 3,
-		"uniques": ["Unbuildable, "Hidden when religion is disabled", "[+15]% Natural religion spread [in this city]"],
+		"uniques": ["Unbuildable, "Hidden when religion is disabled", "(+15)% Natural religion spread (in this city)"],
 	}
 ]

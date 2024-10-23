@@ -1,38 +1,40 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "ポーランド",
+		"leaderName": "ユーゼフ＝ピウスツキ",
+		"adjective": ["ポーランド"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "美しき自然と強大なポーランドに祝福を。ピウスツキ、あなたはポーランドの独立運動の指導者として活動し、ロシアからの独立を果たすためにツァーリを暗殺しようとして流刑されたり、ドイツによる裏切りが判明した後逮捕されたりなど、様々な困難の中において、世界大戦を戦い、強大なソヴィエトに勝利して、分割前の本来のポーランドを取り戻した。その後指導者を引退したが、国内が混乱している様を見て舞い戻ったあなたはクーデターを起こし、国民からの絶大な支持の元、サナツィア体制により再びポーランドを統治した。",
+		"startIntroPart2": "ピウスツキ、あなたの国民は再びポーランドを偉大にし、その独立を確固たるものとすることを求めています。 無数の川の美しさ、ビェブジャ湿地の自然の宝庫を守り、ポーランドは再び偉大になれるでしょうか？ あなたの新しい帝国は歴史を通して輝き続けるでしょうか？",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "貴様の存在によって、我々は戦争を選ばざるを得ない。",
+		"attacked": "我々の独立は揺らがない。",
+		"defeated": "我々は何度でも立ち上がる。今だけは勝利をくれてやる。",
+		"introduction": "ようこそ。私はピウスツキ、ポーランドの指導者である。 私は国民の幸せを優先している優先しているから、あなたと戦うつもりはない。あなた方が私の国民に友好的である限りは。",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "ご機嫌いかがかな？",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "お前と話すことがあるのか？",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "いいだろう。戦争は国民にとって苦痛も伴うだろうからな。",
+		"tradeRequest": "私の国民はこの取引を必要としている。",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [188,0,45],
+		"innerColor": [255,255,255],
+		"uniqueName": "独立へのプレリュード",
+		"uniques": ["[1] Unit Supply per [4] population [in all cities]", "If declaring Defensive Pacts,both parties gain a Free [General]"],
+		"cities": ["ワルシャワ","クラクフ","ウッチ","ヴロツワフ","ポズナン","グダンスク","シュチェチン","ブィドゴシュチュ","ルブリン",
+			"カトヴィツェ","ビャウィストク","グディニャ","チェンストホヴァ","ラドム","ソスノヴィエツ","トルン","キェルツェ","グリヴィツェ","ザブジェ",
+			"ビトム","オルシュティン","ビェルスコ＝ビャワ","ジェシュフ","ルダ・シロンスカ","リブニク","ティヒ","ドンブローヴァ・グルニチャ","プウォツク","オポーレ",
+			"エルブロンク","ゴジュフ・ヴィエルコポルスキ","ヴァウブジフ","ヴウォツワヴェク","ジェロナ・グラ","タルヌフ"]
+		"spyNames": ["ノワク", "コワルスキー", "レヴァンドフスキ", "コワルチク", "カミンスキー", "ジエリンスキー", "シマンスキー", "コズロフスキー", "ヤンコフスキー", "ヴォイチェホフスキ"]
 	}
 ]

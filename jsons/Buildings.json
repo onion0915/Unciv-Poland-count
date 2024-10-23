@@ -5,7 +5,7 @@
 		"uniqueTo": "ポーランド",
 		"hurryCostModifier": 0,
 		"cost": 285,
-		"uniques":  ["[+20]% Production when constructing [Mounted] units [in this city]",  "New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+20]% Production when constructing [Mounted] units [in this city]",  "New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"maintenance": 1,
 		"requiredTech": "Military Science"
 	},
@@ -17,6 +17,6 @@
 		"feith": 4,
 		"happiness": 2,
 		"culture": 3,
-		"uniques": ["Unbuildable, "Hidden when religion is disabled", "(+15)% Natural religion spread (in this city)"],
+		"uniques": ["Unbuildable", "Hidden when religion is disabled", "[+15]% Natural religion spread [in this city]"],
 	}
 ]

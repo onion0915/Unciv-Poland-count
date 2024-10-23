@@ -30,7 +30,7 @@
 		"outerColor": [188,0,45],
 		"innerColor": [255,255,255],
 		"uniqueName": "独立へのプレリュード",
-		"uniques": ["[1] Unit Supply per [4] population [in all cities]", "If declaring Defensive Pacts,both parties gain a Free [General]"],
+		"uniques": ["[1] Unit Supply per [4] population [in all cities]", "If declaring Defensive Pacts,both parties gain a [General]"],
 		"cities": ["ワルシャワ","クラクフ","ウッチ","ヴロツワフ","ポズナン","グダンスク","シュチェチン","ブィドゴシュチュ","ルブリン",
 			"カトヴィツェ","ビャウィストク","グディニャ","チェンストホヴァ","ラドム","ソスノヴィエツ","トルン","キェルツェ","グリヴィツェ","ザブジェ",
 			"ビトム","オルシュティン","ビェルスコ＝ビャワ","ジェシュフ","ルダ・シロンスカ","リブニク","ティヒ","ドンブローヴァ・グルニチャ","プウォツク","オポーレ",
